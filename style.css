@@ -45,10 +45,18 @@ button:hover {
     background-color: #161616;
     box-sizing: border-box;
     padding: 28px;
+    font-family: Arial;
 }
 
 .banner h1 {
     position: relative;
-    top: 84.21%;
+    top: 83%;
     color: white;
+}
+
+.bottomSection {
+    width: 100vw;
+    box-sizing: border-box;
+    padding: 32px 69px;
+    font-family: Arial;
 }
