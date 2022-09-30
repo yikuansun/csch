@@ -67,3 +67,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Roboto, Arial, sans-serif;
     font-weight: 300;
 }
+
+::selection {
+    background-color: hsla(196, 100%, 50%, 0.321);
+}
