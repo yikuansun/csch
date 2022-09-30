@@ -25,12 +25,12 @@ body {
 
 #menubar-right {
     float: right;
-    padding-right: 8.7654321px;
+    padding-right: 9.87654321px;
 }
 
 button {
     background-color: white;
-    padding: 6.96px 11.11px;
+    padding: 8.76543210px 16.961px;
     border: 0;
     border-radius: 5px;
     transition: background-color 0.333s;
