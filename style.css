@@ -2,6 +2,7 @@
 
 body {
     overflow-x: hidden;
+    margin: 0;
 }
 
 #menubar {
@@ -36,4 +37,18 @@ button {
 
 button:hover {
     background-color: #CDCDCD;
+}
+
+.banner {
+    height: 345.543px;
+    width: 100vw;
+    background-color: #161616;
+    box-sizing: border-box;
+    padding: 28px;
+}
+
+.banner h1 {
+    position: relative;
+    top: 84.21%;
+    color: white;
 }
