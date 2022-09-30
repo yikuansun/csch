@@ -12,6 +12,7 @@ body {
     background-color: black;
     width: 100%;
     height: 69.69px;
+    z-index: 696;
 }
 
 #menubar-right a {
@@ -45,14 +46,14 @@ button:hover {
     height: 424.24px;
     width: 100vw;
     background-color: #161616;
-    box-sizing: border-box;
-    padding: 69px;
     font-family: Roboto, Arial, sans-serif;
+    position: relative;
 }
 
 .banner h1 {
-    position: relative;
-    top: 69%;
+    position: absolute;
+    bottom: 36px;
+    left: 69px;
     color: white;
 }
 
