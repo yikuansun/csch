@@ -13,12 +13,17 @@ body {
     height: 69.69px;
 }
 
-#menubar a {
+#menubar-right a {
     color: white;
     line-height: 69.69px;
     padding-right: 13.5px;
     user-select: none;
     font-family: Arial;
+}
+
+#menubar-right {
+    float: right;
+    padding-right: 8.7654321px;
 }
 
 button {
